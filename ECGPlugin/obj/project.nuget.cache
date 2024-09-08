@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbCazwoyi64=",
+  "success": true,
+  "projectFilePath": "S:\\Users\\HiDespondency\\Desktop\\ECGPlugin-master\\ECGPlugin\\ECGPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HiDespondency\\.nuget\\packages\\dalamudpackager\\2.1.13\\dalamudpackager.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
